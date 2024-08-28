@@ -1,2 +1,1 @@
-# CS330GameProjects
-My Gadot game projects from CS-330 intro to game programming
+#My programming projects from school and my own personal projects
